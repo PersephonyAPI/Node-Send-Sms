@@ -14,7 +14,7 @@ This project serves as a guide to help you build an application with Persephony.
    When a phone call arrives to your Persephony phone number, Persephony will issue an HTTP Request to your application at a given url.
 
    This tutorial will use the `Voice URL` (with endpoint `/incomingCall`) and `Status Callback URL` (with endpoint `/status`).
-   ![App Creation Form](./images/AppConfig.png)
+   ![App Creation Form](./images/CreateAppForm.png)
 
 3. Next, link your Persephony number to your Persephony app. Go to the [My Numbers page](https://www.persephony.com/dashboard/portal/numbers) and click on the number you purchased in Step 1. Set the app to your new Send SMS App.
    ![Number Config](./images/NumberConfig.png)
