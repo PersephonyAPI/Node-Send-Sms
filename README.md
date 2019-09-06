@@ -29,6 +29,7 @@ This project serves as a guide to help you build an application with Persephony.
     $ yarn install
   ```
 5. Configure environment variables (this tutorial uses the [dotenv package](https://www.npmjs.com/package/dotenv))
+
    | ENV VARIABLE | DESCRIPTION |
    | ------------ | ----------- |
    | ACCOUNT_ID | Account ID which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard |
