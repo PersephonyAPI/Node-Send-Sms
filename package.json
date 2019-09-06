@@ -1,0 +1,12 @@
+{
+  "name": "send-sms-to-entered-phone-number",
+  "version": "1.0.0",
+  "description": "An demo app that lets users call a number, enter a phone number, and have that number recieve a text message",
+  "author": "Francis San Filippo",
+  "dependencies": {
+    "@persephony/sdk": "^1.1.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  }
+}
